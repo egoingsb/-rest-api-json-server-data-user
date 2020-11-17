@@ -1,12 +1,16 @@
-[
-  {
-    "id": 1,
-    "name": "egoing",
-    "profile": "developer"
-  },
-  {
-    "id": 2,
-    "name": "steve",
-    "profile": "accountant"
-  }
-]
+
+{
+    "topics": 
+  [
+    {
+      "id": 1,
+      "name": "egoing",
+      "profile": "developer"
+    },
+    {
+      "id": 2,
+      "name": "steve",
+      "profile": "accountant"
+    }
+  ]
+}
